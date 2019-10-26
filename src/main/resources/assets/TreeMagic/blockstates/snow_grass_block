@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "TreeMagic:grass_block" }
+  }
+}
