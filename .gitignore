@@ -1,11 +1,17 @@
 # Compiled class file
 *.class
 
-# Log file
-*.log
+# need gradlew
+!gradle/
+!gradlew
+!gradlew.bat
+!build.gradle
 
-# BlueJ files
-*.ctxt
+# include markdowns
+!LICENSE
+
+# include sourcecode
+!src/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -13,8 +19,6 @@
 # Package Files #
 *.jar
 *.war
-*.nar
-*.ear
 *.zip
 *.tar.gz
 *.rar
