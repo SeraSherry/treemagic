@@ -1,0 +1,16 @@
+[
+{
+  "modid": "TreeMagic",
+  "name": "Tree Magic",
+  "description": "Havent decided",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/SeraSherry/treemagic",
+  "updateUrl": "http://github.com/SeraSherry/treemagic",
+  "authorList": ["SeraSherry"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
